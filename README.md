@@ -11,7 +11,7 @@
 
 
 	
-** Sobre mi **
+<h1>Sobre mi</h1>
 <br>
 
 - Me encuentro cursando el 3er año de ing en sistemas de informacion.
