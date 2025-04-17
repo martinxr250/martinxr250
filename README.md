@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skarit.com.ar/">
-    <img src="https://skarit.com.ar/assets/logo.svg" alt="skar-it" width="200"/>
+    <img src="https://skarit.com.ar/skarLogo.png" alt="skar-it" width="200"/>
   </a>
 </p>
 
