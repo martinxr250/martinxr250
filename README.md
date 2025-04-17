@@ -1,12 +1,6 @@
-![skarLogo](https://github.com/user-attachments/assets/162b079a-c479-47d7-afc2-40cbaa398c2c)
 <h1 align="center">
-![skarLogo](https://github.com/user-attachments/assets/162b079a-c479-47d7-afc2-40cbaa398c2c)
-	
-
-  <img src="[https://skarit.com.ar/assets/logo.svg](https://github.com/user-attachments/assets/8adf8092-ccd0-41f5-999e-2998d1b384f2)" alt="Skar IT Technology" width="120"/>
   <br>
-
-  <b>Martin Castro</b> — CEO @ <a href="https://skarit.com.ar/">Skar IT Technology</a>
+  <b>Martin Castro</b> — Apasionado por la tecnología en <a href="https://skarit.com.ar/">Skar IT Technology</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -19,10 +13,10 @@
 ### 🧠 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Sistemas de Información (4to año)
-- 🚀 CEO de [Skar IT Technology](https://skarit.com.ar/), startup enfocada en desarrollo ágil y soluciones digitales
-- 💻 Apasionado del FrontEnd y las arquitecturas limpias
-- 🧩 Fanático del diseño modular, los microservicios y los tests automatizados
-- 🎯 Siempre buscando desafíos: abierto a colaboraciones, oportunidades laborales o pasantías
+- 🚀 Fundé [Skar IT Technology](https://skarit.com.ar/), una startup enfocada en soluciones digitales y desarrollo ágil
+- 💻 Apasionado por el FrontEnd y las arquitecturas limpias
+- 🧩 Me encanta el diseño modular, los microservicios y los tests automatizados
+- 🎯 Siempre buscando desafíos: abierto a colaborar, aprender y crecer
 
 ---
 
@@ -34,8 +28,8 @@
   </a>
 </p>
 
-> Nuestra misión: **desarrollar soluciones con velocidad, precisión y pasión por el detalle.**  
-> Si estás buscando llevar tu idea al siguiente nivel, **¡conectá conmigo!**
+> Nuestra misión: **crear tecnología con velocidad, precisión y amor por los detalles.**  
+> ¿Tenés una idea? **Conectemos y hagámosla realidad.**
 
 ---
 
