@@ -1,22 +1,22 @@
 <h1 align="center">
   <br>
-  <b>Martin Castro</b> — Apasionado por la tecnología en <a href="https://skarit.com.ar/">Skar IT Technology</a>
+  <b>Martin Castro</b> — Full Stack Developer en constante evolución en <a href="https://skarit.com.ar/">Skar IT Technology</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <a href="https://martinxr250.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFD9&center=true&vCenter=true&width=500&lines=Autodidacta+Full-Stack+Developer;Creador+de+Soluciones+Tecnológicas;Lider+de+Proyectos;Fan+del+Clean+Code+%26+Performance" alt="Typing SVG" /></a>
+  <a href="https://martinxr250.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFD9&center=true&vCenter=true&width=500&lines=Desarrollador+Full-Stack+Apasionado;Creador+de+Soluciones+Digitales;Fan+del+Clean+Code+y+la+Performance;Orientado+a+productos+reales+y+clientes+felices" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Sistemas de Información (4to año)
-- 🚀 Fundé [Skar IT Technology](https://skarit.com.ar/), una startup enfocada en soluciones digitales y desarrollo ágil
-- 💻 Apasionado por el FrontEnd y las arquitecturas limpias
-- 🧩 Me encanta el diseño modular, los microservicios y los tests automatizados
-- 🎯 Siempre buscando desafíos: abierto a colaborar, aprender y crecer
+- 🎓 Estudiante de Ingeniería en Sistemas de Información (4to año) — UTN FRC
+- 🚀 Co-Fundador de [Skar IT Technology](https://skarit.com.ar/)
+- 💻 Construyo FrontEnd, las arquitecturas limpias y los proyectos bien hechos
+- 🧩 Me interesan los microservicios, los tests automatizados y los patrones de diseño
+- 🎯 Siempre abierto a nuevos desafíos, tanto personales como en equipo
 
 ---
 
@@ -67,6 +67,17 @@
 
 ---
 
+## 💡 Mi enfoque profesional
+
+| Valor | Qué significa en mi día a día |
+|-------|-------------------------------|
+| **Código limpio** | Estructuras claras, principios SOLID, reutilización real |
+| **Delivery continuo** | Automatización, testeo constante, foco en valor |
+| **Comunicación efectiva** | Buenas prácticas con el equipo, claridad con clientes |
+| **Visión de producto** | No solo código: soluciones que resuelven problemas reales |
+
+---
+
 ## 🤝 Conectemos
 
 <p align="left">
@@ -78,7 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200">
-  <br>
-  <i>“Construyo tecnología para solucionar problemas reales.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
