@@ -1,5 +1,8 @@
+![skarLogo](https://github.com/user-attachments/assets/162b079a-c479-47d7-afc2-40cbaa398c2c)
 <h1 align="center">
+![skarLogo](https://github.com/user-attachments/assets/162b079a-c479-47d7-afc2-40cbaa398c2c)
 	
+
   <img src="[https://skarit.com.ar/assets/logo.svg](https://github.com/user-attachments/assets/8adf8092-ccd0-41f5-999e-2998d1b384f2)" alt="Skar IT Technology" width="120"/>
   <br>
 
